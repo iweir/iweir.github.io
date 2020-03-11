@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 ### R packages available on CRAN
 - [MetaRMST](https://cran.r-project.org/web/packages/metaRMST/index.html):
