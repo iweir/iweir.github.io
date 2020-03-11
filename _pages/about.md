@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Isabelle R. Weir"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,4 +12,4 @@ I am a Research Associate/Senior Biostatistician at the Center for Biostatistics
 
 My methodological research is focused on time-to-event outcomes. I am a proponent of using measures of treatment effect based on the restricted mean survival times as an alternative to the hazard ratio. I also have an interest in challenges of non-inferiority trials. 
 
-Please see the respective sections of this webpage for information about my publications, teaching/talks, software, and an up to date copy of my CV. 
+Please see the respective sections of this webpage for information about my publications, software, and an up to date copy of my CV. 
