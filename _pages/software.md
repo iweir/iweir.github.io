@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "R functions and packages"
+title: "R packages and functions"
 permalink: /software/
 author_profile: true
 redirect_from:
