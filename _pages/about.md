@@ -12,4 +12,4 @@ I am a Research Associate/Senior Biostatistician at the Center for Biostatistics
 
 My methodological research focuses on innovation for randomized controlled trials with time-to-event outcomes. In particular, I have focused on methods with the difference in restricted mean survival times as an alternative, or supplemental measure, to the hazard ratio. 
 
-Please see the respective sections of this webpage for information about my publications, software, and an up to date copy of my CV. 
+Please see the respective sections of this webpage for my current CV, publications, and software. 
